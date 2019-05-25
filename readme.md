@@ -122,7 +122,7 @@ class User{
 * [x] task list 2
     * [x] nested task list 1 
     * [x] nested task list 2 
-* [x] task list 2
+* [ ] uncheck task list 2
 
 
 
