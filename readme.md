@@ -119,7 +119,7 @@ class User{
 
 <!--task llist-->
 * [x] task list 1 
-* [] task list 2
+* [x] task list 2
     * [x] nested task list 1 
     * [x] nested task list 2 
 * [x] task list 2
